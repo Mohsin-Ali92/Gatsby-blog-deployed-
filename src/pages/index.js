@@ -13,12 +13,12 @@ export default function Home() {
         The cross-platform framework offers the most compelling web development
         experience
       </h2>
-      <img
+      {/* <img
         //src={myBlog1}
         src="https://miro.medium.com/max/2880/1*jgFIhR2M19NPVsSVXOGe-w.png"
         loading="lazy"
         alt="Hello World"
-      />
+      /> */}
       <p>
         Websites today, including the one you are using now, are written in
         HTML, JavaScript, and CSS. You probably read that and think to yourself
@@ -376,3 +376,4 @@ export default function Home() {
     </div>
   )
 }
+
