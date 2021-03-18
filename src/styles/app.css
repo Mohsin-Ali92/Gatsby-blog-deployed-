@@ -1,0 +1,38 @@
+div {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: rgb(243, 240, 239);
+  text-align: left;
+  width: 700px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 100;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+h3 {
+  font-size: 30px;
+}
+p {
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+}
+
+ol {
+  font-size: 20px;
+}
+
+strong {
+  font-size: 25px;
+}
+
+img {
+  width: 700px;
+  height: 500px;
+}
